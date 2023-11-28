@@ -1,12 +1,12 @@
 <h1>
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! I am Dmitrii, nice to meet you!</h1>
 <h2> About me 🌝</h2>
-<p> I am a 4+ years experienced fullstack developer. For the last 3 years I've been working with <a href="https://www.buzz.ai">Buzz.ai</a>, building the whole project from the scratch. </p>
+<p> I am a 4+ years experienced <b>fullstack</b> developer. For the last 3 years I've been working with <a href="https://www.buzz.ai">Buzz.ai</a>, building the whole project from the scratch. </p>
 <h3> For this time I have developed:</h3>
 <ul>
-  <li> an automation engine using Electron.js, mongoDB and Python (Flask) 🤖 </li>
-  <li> a chrome extension with automation functionality using DevTools protocol, vue.js and JavaScript 🤖 </li>
-  <li> a huge part of existing UI using Vue.js 🚀</li>
+  <li> an automation engine using Electron.js, MongoDB and Python (Flask) 🤖 </li>
+  <li> a chrome extension with automation functionality using DevTools protocol, Vue.js and JavaScript 🤖 </li>
+  <li> a huge part of existing UI, using Vue.js 🚀</li>
 </ul>
 <h3> As a Team Leader I have: </h3>
 <ul>
