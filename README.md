@@ -1,18 +1,27 @@
 <h1>
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! I am Dmitrii, nice to meet you!</h1>
 <h2> About me </h2>
-<p> I am a 5+ years experienced <b>fullstack</b> developer. For the last 3 years I've been working with <a href="https://www.buzz.ai">Buzz.ai</a>, building the whole project from the scratch. </p>
-<h3> For this time I have developed:</h3>
+<p> I am a 5+ years experienced <b>Full-stack</b> developer and a Team Leader. For the last 5 years, I've been working with <a href="https://www.buzz.ai">Buzz.ai</a>, building the whole project from scratch. </p>
+<h3> For this time I have created:</h3>
 <ul>
-  <li> an automation engine using Electron.js, MongoDB and Python (Flask) 🤖 </li>
-  <li> a chrome extension with automation functionality using DevTools protocol, Vue.js and JavaScript 🤖 </li>
+  <li> an automation engine using Electron.js, MongoDB, Python (Flask), Redis, Celery and other technologies 🤖 </li>
+  <li> a Chrome extension with automation functionality using DevTools protocol, Vue.js and JavaScript 🤖 </li>
   <li> a huge part of existing UI, using Vue.js 🚀</li>
 </ul>
-<h3> As a Team Leader I have: </h3>
+<h4> Besides development, I have participated in </h4>
+<ul>
+  <li> Setting up Infrastructure (Jenkins, Kubernetes) </li>
+  <li> Installing services (Grafana, Prometheus, Loki) </li>
+  <li> Writing specifications for Developers. </li>
+  <li> Architecture decision making </li>
+</ul>
+<h3> As a Team Leader, I have: </h3>
 <ul>
   <li> Conducted interviews and assembled a team </li>
   <li> Created an inspiring team environment with an open communication culture</li>
-  <li> Mentored our Junior UI developers </li>
+  <li> Mentored our Junior / Middle UI and Backend developers, saw them grow, and am very proud of them! </li>
+  <li> Comunicated with Clients, Stakeholders, and Customer Support team </li>
+  <li> Created educational documentation about the project </li>
 </ul>
 <h2> Here are some of my skills 🔧</h2>
 <table align="center">
